@@ -1,0 +1,1 @@
+app.UseMiddleware<RequestLoggingMiddleware>();
